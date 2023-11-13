@@ -22,4 +22,4 @@
 	
 	<context:component-scan base-package="com.kh.muze" />
 	
-</beans:beans>
+</beans:beans> 

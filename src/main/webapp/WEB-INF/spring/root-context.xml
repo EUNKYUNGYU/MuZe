@@ -13,7 +13,7 @@
 	 	<property name="password" value="MUZE"/>
 	 </bean>
 	 
-	 
+	  
 	 <!-- 2단계 | MyBatisSource에서 제공하는 SQL명령을 실행햐가 위한 도구 등록-->
 	 <bean class="org.mybatis.spring.SqlSessionFactoryBean" id="sqlSessionFactory">
 	 	<property name="configLocation" value="classpath:mybatis-config.xml"/>
